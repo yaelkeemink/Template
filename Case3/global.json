@@ -1,0 +1,3 @@
+{
+  "projects": [ "Case3/src/001 - Domain/Entities", "Case3/src/001 - Domain/Services", "Case3/src/002 - Infrastructure", "Case3/src/004 - Incoming", "Case3/src/005 - Outgoing", "." ]
+}
